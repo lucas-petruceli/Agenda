@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Agenda</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="insira_suas_informa_es">INSIRA SUAS INFORMAÇÕES</string>
+    <string name="atualizar">ATUALIZAR</string>
+    <string name="id_usu_rio">ID Usuário</string>
+    <string name="deletar">DELETAR</string>
+    <string name="apagar">APAGAR</string>
+    <string name="endere_o">Endereço:</string>
+    <string name="email">Email:</string>
+    <string name="telefone">Telefone</string>
+    <string name="data_nasc">Data Nasc.</string>
+    <string name="name">Name:</string>
+    <string name="buscar">BUSCAR</string>
+</resources>
